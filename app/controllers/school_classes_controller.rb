@@ -1,4 +1,5 @@
 class SchoolClassesController < ApplicationController
+
   def new
   end
 
@@ -13,6 +14,5 @@ class SchoolClassesController < ApplicationController
 
   def update
   end
-
 
 end
